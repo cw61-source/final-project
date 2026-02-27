@@ -1,6 +1,6 @@
 # Task Manager API
 
-Final project for the backend course. Its a simple REST API built with FastAPI that lets you manage tasks. Nothing fancy, tasks get saved to a plain text file so they dont disappear when you restart the server.
+This is my final project for the b1-programming class @HTW Berlin. Its a simple REST API built with FastAPI that lets you manage tasks. Tasks get saved to a plain text file so they dont disappear when you restart the server.
 
 ---
 
